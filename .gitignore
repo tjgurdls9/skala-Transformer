@@ -2,3 +2,6 @@
 **/.DS_Store
 .ipynb_checkpoints/
 __pycache__/
+
+# Course materials and supplied teaching templates stay local.
+/*.ipynb
